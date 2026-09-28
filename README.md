@@ -80,10 +80,17 @@ My personal portfolio website showcasing my skills, projects, CV, and contact in
 
 
 
-## 📫 Contact Me
+## 📫 Contact & Connect
 
-- Email: justusmalombep@gmail.com
-- GitHub: https://github.com/jupeang
+* 📧 Email: [justusmalombep@gmail.com](mailto:justusmalombep@gmail.com)
+* 💻 GitHub: [github.com/jupeang](https://github.com/jupeang)
+* 🌐 Portfolio: [jupeang.github.io/my-portfolio](https://jupeang.github.io/my-portfolio/)
+* 📍 Location: Kenya
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
+
 
 ---
 
