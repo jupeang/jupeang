@@ -51,9 +51,12 @@ A USSD-based loan application system that allows users to apply for loans using 
 
 ## 🌐 My Portfolio
 
-Visit my personal portfolio:
+Visit my personal portfolio website:
 
-https://jupeang.github.io/my-portfolio/
+👉 [View My Portfolio](https://jupeang.github.io/my-portfolio/)
+
+My portfolio contains information about me, my skills, projects, CV, and contact details.
+
 
 ## 📫 Contact Me
 
