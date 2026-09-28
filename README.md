@@ -1,16 +1,66 @@
-## Hi there 👋
+```markdown
+# Hi, I'm Justus Peter 👋
 
-<!--
-**jupeang/jupeang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I am a Bachelor of Computer Science student at South Eastern Kenya University with a passion for software development, networking, artificial intelligence, databases, and practical technology solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building projects that solve real-world problems while continuously improving my programming and problem-solving skills.
+
+## 🚀 About Me
+
+- 🎓 Bachelor of Computer Science Student
+- 💻 Aspiring Software Developer
+- 🌐 Interested in Networking and Web Technologies
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🗄️ Interested in Databases and Backend Development
+- 🔧 Always learning and building new projects
+
+## 🛠️ Technologies & Skills
+
+- Python
+- JavaScript
+- HTML
+- CSS
+- Flask
+- MongoDB
+- Node.js
+- Express.js
+- Machine Learning
+- Git & GitHub
+
+## 📂 Featured Projects
+
+### Student Loan System
+
+A student loan application system developed using Flask, JavaScript, HTML, CSS, and MongoDB.
+
+[View Project](https://github.com/jupeang/student-loan-system)
+
+### Loan Approval Prediction System
+
+A machine learning application designed to predict loan approval based on applicant information.
+
+[View Project](https://github.com/jupeang/student-loan-system)
+
+### USSD Loan Application System
+
+A USSD-based loan application system that allows users to apply for loans using a mobile phone without requiring a smartphone or internet connection.
+
+[View Project](https://github.com/jupeang/ussd-loan-application-system)
+
+## 🌐 My Portfolio
+
+Visit my personal portfolio:
+
+https://jupeang.github.io/my-portfolio/
+
+## 📫 Contact Me
+
+- Email: justusmalombep@gmail.com
+- GitHub: https://github.com/jupeang
+
+---
+
+⭐ Thank you for visiting my profile!
+```
