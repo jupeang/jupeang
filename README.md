@@ -32,31 +32,44 @@ I enjoy building projects that solve real-world problems while continuously impr
 
 ## 📂 Featured Projects
 
-### Student Loan System
+### 🎓 Student Loan System
 
-A student loan application system developed using Flask, JavaScript, HTML, CSS, and MongoDB.
+A full-stack student loan application system that allows students to submit loan applications and administrators to manage applications.
 
-[View Project](https://github.com/jupeang/student-loan-system)
+**Technologies:** Python, Flask, HTML, CSS, JavaScript, MongoDB
 
-### Loan Approval Prediction System
+🔗 [View Project](https://github.com/jupeang/student-loan-system)
 
-A machine learning application designed to predict loan approval based on applicant information.
+---
 
-[View Project](https://github.com/jupeang/student-loan-system)
+### 🤖 Loan Approval Prediction System
 
-### USSD Loan Application System
+A machine learning-based system that predicts loan approval using applicant information and trained machine learning models.
 
-A USSD-based loan application system that allows users to apply for loans using a mobile phone without requiring a smartphone or internet connection.
+**Technologies:** Python, Pandas, Scikit-learn, Flask, Machine Learning
 
-[View Project](https://github.com/jupeang/ussd-loan-application-system)
+🔗 [View Project](https://github.com/jupeang/student-loan-system)
 
-## 🌐 My Portfolio
+---
 
-Visit my personal portfolio website:
+### 📱 USSD Loan Application System
 
-👉 [View My Portfolio](https://jupeang.github.io/my-portfolio/)
+A USSD-based loan application system that allows users to access loan services using a basic mobile phone without requiring a smartphone.
 
-My portfolio contains information about me, my skills, projects, CV, and contact details.
+**Technologies:** Node.js, Express.js, Python, Flask, MongoDB, USSD
+
+🔗 [View Project](https://github.com/jupeang/ussd-loan-application-system)
+
+---
+
+### 🌐 Personal Portfolio Website
+
+My personal portfolio website showcasing my skills, projects, CV, and contact information.
+
+**Technologies:** HTML, CSS, JavaScript, GitHub Pages
+
+🔗 [View Portfolio](https://jupeang.github.io/my-portfolio/)
+
 
 
 ## 📫 Contact Me
