@@ -29,6 +29,14 @@ I enjoy building projects that solve real-world problems while continuously impr
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
+## 📚 Currently Learning
+
+* Advanced Python Programming
+* Backend Development
+* Networking and Computer Security
+* Artificial Intelligence and Machine Learning
+* Database Management
+* Software Engineering
 
 ## 📂 Featured Projects
 
