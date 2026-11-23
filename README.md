@@ -74,6 +74,7 @@ My personal portfolio website containing information about my skills, projects, 
 ## Contact
 
 Email: justusmalombep@gmail.com
+linkin account:www.linkedin.com/in/justus-malombe-8b3b263a0
 
 GitHub: [github.com/jupeang](https://github.com/jupeang)
 
